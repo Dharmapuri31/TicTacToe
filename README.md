@@ -11,7 +11,20 @@
   
   vertical, or diagonal row wins the game. If all cells are used without someone getting a three in a row, the game is a draw.
   
-  <p style="text-decoration: underline;">Points to keep in mind:</p>
+  <em>>Points to keep in mind:</em>
   <br>1) If both players play optimally, the game will always be a draw.</br>
   <br>2) If one player is optimal and the other is random, the optimal player will win most of the games and the random player will never win. </br>
+  
+  </h2> 
+  Wild Tic Tac Toe:
+  </h2> 
+  
+<br> On each turn a player can play either x or o. The player who gets the first three (x’s or o’s) in a row wins the game. </br> 
+<br> If all cells are used without someone getting a three in a row, the game is a draw.</br> 
+
+<em>>Points to keep in mind:</em>
+<br> 1. If both players play optimally, the first player can always win if the middle cell is chosen as his/her first move. </br>
+<br> 2. If both players play optimally, the game will be always a draw if the first player does NOT choose the middle cell as his/her first move. </br>
+<br> 3. If one player is optimal and the other is random, the optimal player will win most of the games and the random player will never win. </br>
+
 </body>
