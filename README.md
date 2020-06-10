@@ -7,6 +7,9 @@
   <br><em>2) Optimal Vs Random: The first player plays randomly, and the second player plays optimally.</em></br>
   <br><em>3) Optimal VS you: User gets to play as the first player against an optimal player</em></br>
   
+    
+  Let us get into the details of what has to be done in Tic Tac Toe and Wild Tic Tac Toe
+  
   <h2>
   Tic Tac Toe:
   </h2>
@@ -18,8 +21,7 @@
   <b>Points to keep in mind:</b>
   <br>1) If both players play optimally, the game will always be a draw.</br>
   <br>2) If one player is optimal and the other is random, the optimal player will win most of the games and the random player will never win. </br>
-  
-  Let us get into the details of what has to be done in Tic Tac Toe and Wild Tic Tac Toe
+
   
   <h2> 
   Wild Tic Tac Toe:
