@@ -19,6 +19,8 @@
   <br>1) If both players play optimally, the game will always be a draw.</br>
   <br>2) If one player is optimal and the other is random, the optimal player will win most of the games and the random player will never win. </br>
   
+  Let us get into the details of what has to be done in Tic Tac Toe and Wild Tic Tac Toe
+  
   <h2> 
   Wild Tic Tac Toe:
   </h2> 
