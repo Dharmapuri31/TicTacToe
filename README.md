@@ -3,7 +3,8 @@
   <br>I recently worked on this project and it was a fun learning experience. A game is built using the Minimax search. It is a backtracking algorithm that is used for decision making in game theory.</br>
   
   
-  Considering three strategies, namely. 
+  
+  <b>Considering three strategies, namely: </b>
   <br><em>1) Optimal Vs Optimal</em></br>
   <br><em>2) Optimal Vs Random</em></br>
   <br><em>3) Optimal VS you.</em></br>
