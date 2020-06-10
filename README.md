@@ -2,10 +2,11 @@
 <body> 
   <br>I recently worked on this project and it was a fun learning experience. A game is built using the Minimax search. It is a backtracking algorithm that is used for decision making in game theory.</br>
   
+  
   Considering three strategies, namely. 
-  <em>1) Optimal Vs Optimal</em>
-  <em>2) Optimal Vs Random</em>
-  <em>3) Optimal VS you.</em>
+  <br><em>1) Optimal Vs Optimal</em></br>
+  <br><em>2) Optimal Vs Random</em></br>
+  <br><em>3) Optimal VS you.</em></br>
   
   <h2>
   Tic Tac Toe:
@@ -15,7 +16,7 @@
   
   vertical, or diagonal row wins the game. If all cells are used without someone getting a three in a row, the game is a draw.
   
-  <em>Points to keep in mind:</em>
+  <b>Points to keep in mind:</b>
   <br>1) If both players play optimally, the game will always be a draw.</br>
   <br>2) If one player is optimal and the other is random, the optimal player will win most of the games and the random player will never win. </br>
   
@@ -26,7 +27,7 @@
 <br> On each turn a player can play either x or o. The player who gets the first three (x’s or o’s) in a row wins the game. </br> 
 <br> If all cells are used without someone getting a three in a row, the game is a draw.</br> 
 
-<em>>Points to keep in mind:</em>
+<b>Points to keep in mind:</b>
 <br> 1. If both players play optimally, the first player can always win if the middle cell is chosen as his/her first move. </br>
 <br> 2. If both players play optimally, the game will be always a draw if the first player does NOT choose the middle cell as his/her first move. </br>
 <br> 3. If one player is optimal and the other is random, the optimal player will win most of the games and the random player will never win. </br>
