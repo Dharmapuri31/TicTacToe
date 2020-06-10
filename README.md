@@ -11,11 +11,11 @@
   
   vertical, or diagonal row wins the game. If all cells are used without someone getting a three in a row, the game is a draw.
   
-  <em>>Points to keep in mind:</em>
+  <em>Points to keep in mind:</em>
   <br>1) If both players play optimally, the game will always be a draw.</br>
   <br>2) If one player is optimal and the other is random, the optimal player will win most of the games and the random player will never win. </br>
   
-  </h2> 
+  <h2> 
   Wild Tic Tac Toe:
   </h2> 
   
