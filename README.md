@@ -1,7 +1,9 @@
-# TicTacToe
+# TicTacToe & Wild TicTacToe
 <body> 
   The game is done using Minimax search. It is a backtracking algorithm that is used for decision making in game theory. 
   
+  
+  Tic Tac Toe:
   
   The first player plays x and the second player plays o. The player who succeeds in placing three of their marks in a horizontal,
   
