@@ -35,4 +35,5 @@
 <br> 2. If both players play optimally, the game will be always a draw if the first player does NOT choose the middle cell as his/her first move. </br>
 <br> 3. If one player is optimal and the other is random, the optimal player will win most of the games and the random player will never win. </br>
 
+<em> For more details, please go through the report attached </em>
 </body>
