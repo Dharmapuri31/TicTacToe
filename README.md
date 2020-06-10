@@ -3,8 +3,6 @@
   I recently worked on this project and it was a fun learning experience. A game is built using the Minimax search. It is a backtracking algorithm that is used for decision making in game theory.
   
   
-  
-  <b>Considering three strategies, namely: </b>
   <br><em>1) Optimal Vs Optimal: Note that it is pure optimal, meaning that even the first move is optimal. Our minimax function always returns the first best score and plays that move.</em></br>
   <br><em>2) Optimal Vs Random: The first player plays randomly, and the second player plays optimally.</em></br>
   <br><em>3) Optimal VS you: User gets to play as the first player against an optimal player</em></br>
