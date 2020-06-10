@@ -1,7 +1,11 @@
 # TicTacToe & Wild TicTacToe Using Minimax search algorithm
 <body> 
-  The game is done using Minimax search. It is a backtracking algorithm that is used for decision making in game theory. 
+  <br>I recently worked on this project and it was a fun learning experience. A game is built using the Minimax search. It is a backtracking algorithm that is used for decision making in game theory.</br>
   
+  Considering three strategies, namely. 
+  <em>1) Optimal Vs Optimal</em>
+  <em>2) Optimal Vs Random</em>
+  <em>3) Optimal VS you.</em>
   
   <h2>
   Tic Tac Toe:
